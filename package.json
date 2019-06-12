@@ -1,19 +1,22 @@
 {
-  "name": "toaster-plugin",
+  "name": "cordova-plugin-toasterplugin",
   "version": "0.0.1",
-  "description": "Toaster??",
+  "description": "Toaster Plugin??",
   "cordova": {
     "id": "cordova-plugin-toasterplugin",
-    "platforms": []
+    "platforms": [
+      "android"
+    ]
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jordan-poloan-07/ToasterPlugin.git"
   },
   "keywords": [
-    "ecosystem:cordova"
+    "ecosystem:cordova",
+    "cordova-android"
   ],
-  "author": "jordan poloan",
+  "author": "Jordan",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jordan-poloan-07/ToasterPlugin/issues"
